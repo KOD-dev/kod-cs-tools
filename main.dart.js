@@ -72646,10 +72646,10 @@ this.f.l()
 this.az()},
 tF(){var s=0,r=A.Q(t.H),q,p=this,o,n
 var $async$tF=A.R(function(a,b){if(a===1)return A.N(b,r)
-while(true)switch(s){case 0:if(p.e.a.a.length===0){o=p.d
+while(true)switch(s){case 0:o=p.d
 B.b.S(o)
 p.w=0
-p.yD(o)
+if(p.e.a.a.length===0){p.yD(o)
 s=1
 break}p.af(new A.a9Z(p))
 o=p.w
